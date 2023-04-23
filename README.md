@@ -19,13 +19,9 @@ npm run dev
 
 Acesse src/ e remova todo o seu conteúdo
 
-Então copie todos os arquivos de
+Então copie todo o conteúdo do src daqui
 
-https://github.com/ribafs/react-router-tutorial
-
-Exceto README e LICENCE
-
-Experimente
+## Experimente
 
 npm run dev
 
